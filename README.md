@@ -34,8 +34,6 @@ src="https://camo.githubusercontent.com/ef5f35169dc55f8a236717a1d7c6588f9cf8027a
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
-
-
 <a href="https://linkedin.com/in/www.linkedin.com/in/ram238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ram238" height="30" width="40" /></a>
 <a href="https://instagram.com/r_a_m_8451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_m_8451" height="30" width="40" /></a>
 <a href="https://twitter.com/ram1030229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ram1030229" height="30" width="40" /></a>
