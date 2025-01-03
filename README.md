@@ -5,7 +5,7 @@
 <p align="left"> 
 ● 💼 Full Stack Developer</p>
 <p align="left"> 
-● 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL,Express.js, React.js</p>
+● 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, React.js</p>
 <p align="left"> 
 ● ✨ Completed Full Stack Development at NxT Wave</p>
 <p align="left"> 
